@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Meet!
 
-I'm an incoming CS student passionate about software engineering and building tech that makes a real-world impact.
+I'm a CS student passionate about software engineering and building tech that makes a real-world impact.
 
 - 🔭 Working on **NaniBot** – a multilingual assistant for elderly users  
 - 🌱 Learning Flask, REST APIs, and DSA  
