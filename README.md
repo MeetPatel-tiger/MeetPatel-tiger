@@ -23,7 +23,8 @@
 ---
 
 ### 🔥 **Current Projects**  
-- **[NaniBot](https://github.com/your-username/NaniBot)** – Multilingual assistant for elderly users (Python/Flask)  
+- **[NaniBot](https://github.com/your-username/NaniBot)** – Multilingual assistant for elderly users (Python/Flask)
+- **[ScoreSaver](https://github.com/MeetPatel-tiger/Congressional-App-Challange)**- ACT/SAT testing resources for high school students(Html/CSS)
 - *More projects coming soon!*  
 
 ---
