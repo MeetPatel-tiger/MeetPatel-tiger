@@ -3,7 +3,7 @@
 
 💡 Passionate about building tools that solve real-world problems.  
 🏆 **Tech Awards** (Congressional App Challenge, TSA Coding Nationals(qualified).  
-♟️ Chess enthusiast & lifelong learner.  
+♟️ Chess enthusiast & lifelong learner about Tech.  
 
 ---
 
