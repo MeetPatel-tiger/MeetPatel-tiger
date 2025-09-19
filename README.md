@@ -29,6 +29,7 @@
 - 🥈 **2nd Place** – Congressional App Challenge (awarded by Rep. Brett Guthrie) – *Check out the [ScoreSaver Project](https://github.com/MeetPatel-tiger/Congressional-App-Challange)*  
 - 💻 **3rd Place** – TSA Coding Competition (Qualified for Nationals, but unable to attend due to family circumstances)  
 
+---
 
 ### ⚡ **Outside of Classes (Yes, I’m a real person)**  
 - 🎬 I enjoy watching movies to relax and recharge (always open to recommendations!)  
