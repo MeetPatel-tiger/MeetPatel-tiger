@@ -26,7 +26,7 @@
 ---
 
 ### 🏆 **Achievements**  
-- 🥈 **2nd Place** – Congressional App Challenge (awarded by Rep. Brett Guthrie)  
+- 🥈 **2nd Place** – Congressional App Challenge (awarded by Rep. Brett Guthrie + check out ScoreSaver Project)  
 - 💻 **TSA Coding Competition** – 2nd Place, Qualified for Nationals (unable to attend due to family circumstances)  
 
 ---
