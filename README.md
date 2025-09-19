@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Meet Patel!  
-### **Computer Science Student | Aspiring Software Engineer | Passionate About Technology**  
+### **First-Gen Computer Science Student | Aspiring Software Engineer | Passionate About Technology**  
 
 💡 Passionate about building tools that solve real-world problems.  
 🏆 **Tech Awards**: Congressional App Challenge, TSA Coding Nationals (qualified)  
