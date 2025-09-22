@@ -47,5 +47,5 @@
 
 ### ⚡ **Fun Fact**  
 > *"I can recite the Sicilian Defense opening moves blindfolded!"* ♟️  
-> *Always willing to help — just ask!*  
+> *Always willing to help, just ask!*  
 > *Consistently learning and growing*  
