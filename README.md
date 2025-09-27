@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Meet Patel!  
-### **First-Gen CS Freshman @ University of Louisville | Aspiring Software Engineer
+### **First-Gen CS Freshman @ University of Louisville | Aspiring Software Engineer**
 
 💡 Currently:  
 - 📚 Learning **Data Structures & Algorithms on my own** to prepare for internships  
