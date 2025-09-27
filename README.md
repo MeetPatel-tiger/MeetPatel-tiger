@@ -6,7 +6,7 @@
 - 💻 Building independent projects like **Syllabus-Explainer** (**Coming Soon**)    
 
 ### 🏆 **High School Achievements**  
-- 🥈 **2nd Place** – Congressional App Challenge (awarded by Rep. Brett Guthrie) → *[ScoreSaver Project](https://github.com/MeetPatel-tiger/Congressional-App-Challange)*  
+- 🥈 **2nd Place** – Congressional App Challenge (awarded by Rep. Brett Guthrie) → *[ScoreSaver Project](https://github.com/MeetPatel-tiger/Congressional-App-Challange)* | [Official Recognition](https://guthrie.house.gov/news/documentsingle.aspx?DocumentID=388158)  
 - 💻 **3rd Place** – TSA Coding Competition (Qualified for Nationals, but unable to attend due to family circumstances)  
 - 📚 **Relevent Coursework** -  AP Calc BC, AP PRE Calc, AP CSA, AP CSP
 
