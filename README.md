@@ -5,11 +5,26 @@
 - 📚 Learning **Data Structures & Algorithms on my own** to prepare for internships  
 - 💻 Building independent projects like **Syllabus-Explainer** (**Coming Soon**)    
 
-🏆 **Tech Awards**: Congressional App Challenge (2nd Place), TSA Coding Nationals (Qualified)  
-♟️ Chess enthusiast, gym-lover, and lifelong learner of technology  
+### 🏆 **High School Achievements**  
+- 🥈 **2nd Place** – Congressional App Challenge (awarded by Rep. Brett Guthrie) → *[ScoreSaver Project](https://github.com/MeetPatel-tiger/Congressional-App-Challange)*  
+- 💻 **3rd Place** – TSA Coding Competition (Qualified for Nationals, but unable to attend due to family circumstances)  
+- 📚 **Relevent Coursework** -  AP Calc BC, AP PRE Calc, AP CSA, AP CSP
+
+### 🎓 **College Involvement (University of Louisville)**  
+- 🌐 Member of the **Association for Computing Machinery (ACM)**, contributing to projects and peer collaboration  
+- 🏆 Preparing for **International Collegiate Programming Contest** with teammates  
 
 ---
 
+### 💼 **Experience**  
+
+- 🧪 **Research Intern – Louisville Science Pathways (May – July 2025)**  
+  - Spent the summer working on a research project at the **University of Louisville** focused on applying **AI to medical imaging**  
+  - Implemented segmentation workflows on **15+ prostate cancer CT scans**, creating training datasets for **UNet, ESRGAN, and ResNet18** models that contributed to research studies reporting up to **20% improved diagnostic accuracy**  
+  - Optimized imaging pipelines by refining preprocessing steps, which boosted precision in results by **15%** and helped the team work more efficiently  
+  - Delivered a presentation to **40+ attendees**, explaining complex AI/ML concepts in simple terms and receiving positive feedback on clarity and understanding  
+
+---
 ### 🛠️ **Tech Stack**  
 #### **Familiar Frameworks & Languages**  
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
@@ -18,19 +33,6 @@
 ![HTML/CSS](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)  
 ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)  
-
----
-
-### 🎓 **College Involvement (University of Louisville)**  
-- 🌐 Member of the **Association for Computing Machinery (ACM)**, contributing to projects and peer collaboration  
-- 🏆 Preparing for **International Collegiate Programming Contest** with teammates  
-
----
-
-### 🏆 **High School Achievements**  
-- 🥈 **2nd Place** – Congressional App Challenge (awarded by Rep. Brett Guthrie) → *[ScoreSaver Project](https://github.com/MeetPatel-tiger/Congressional-App-Challange)*  
-- 💻 **3rd Place** – TSA Coding Competition (Qualified for Nationals, but unable to attend due to family circumstances)  
-- 📚 Created **ScoreSaver**, a centralized ACT/SAT study hub for students  
 
 ---
 
