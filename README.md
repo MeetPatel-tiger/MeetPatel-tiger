@@ -4,7 +4,6 @@
 💡 Currently:  
 - 📚 Learning **Data Structures & Algorithms on my own** to prepare for internships  
 - 💻 Building independent projects like **Syllabus-Explainer** (**Coming Soon**)
-- **Tech Blogger – Medium** | [medium.com/@Meet-Patel](https://medium.com/@Meet-Patel) Started publishing blogs documenting my journey as a first-gen CS freshman.
  
 
 ### 🏆 **High School Achievements**  
@@ -49,7 +48,7 @@
 
 ### 📫 **Let’s Connect!**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/meet-patel-439bb72b1/)  
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://youtube.com/@CompileWithMeet)  
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Meet-Patel)  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:your-email@example.com)  
 
 ---
