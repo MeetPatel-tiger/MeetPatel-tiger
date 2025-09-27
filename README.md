@@ -3,7 +3,9 @@
 
 💡 Currently:  
 - 📚 Learning **Data Structures & Algorithms on my own** to prepare for internships  
-- 💻 Building independent projects like **Syllabus-Explainer** (**Coming Soon**)    
+- 💻 Building independent projects like **Syllabus-Explainer** (**Coming Soon**)
+- **Tech Blogger – Medium** | [medium.com/@Meet-Patel](https://medium.com/@Meet-Patel) Started publishing blogs documenting my journey as a first-gen CS freshman.
+ 
 
 ### 🏆 **High School Achievements**  
 - 🥈 **2nd Place** – Congressional App Challenge (awarded by Rep. Brett Guthrie) → *[ScoreSaver Project](https://github.com/MeetPatel-tiger/Congressional-App-Challange)* | [Official Recognition](https://guthrie.house.gov/news/documentsingle.aspx?DocumentID=388158)  
