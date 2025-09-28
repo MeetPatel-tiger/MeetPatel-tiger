@@ -40,7 +40,7 @@
 ### ⚡ **Outside of Classes (Yes, I’m a real person)**  
 - 🎬 Love watching movies (always open to recommendations!)  
 - ♟️ Big fan of strategy games like Chess and Clash Royale  
-- 🏋️ Enjoy going to the **gym** to stay active  
+- 🏋️ Enjoy going to the **gym** to stay active and Listening to Musics.  
 - 👨‍👩‍👦 Value spending quality **time with my family**  
 - 📖 Enjoy reading inspiring LinkedIn posts and celebrating others’ achievements  
 
