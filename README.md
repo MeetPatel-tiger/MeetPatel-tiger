@@ -9,7 +9,7 @@
 ### 🏆 **High School Achievements**  
 - 🥈 **2nd Place** – Congressional App Challenge (awarded by Rep. Brett Guthrie) → *[ScoreSaver Project](https://github.com/MeetPatel-tiger/Congressional-App-Challange)* | [Official Recognition](https://guthrie.house.gov/news/documentsingle.aspx?DocumentID=388158)  
 - 💻 **3rd Place** – TSA Coding Competition (Qualified for Nationals, but unable to attend due to family circumstances)  
-- 📚 **Relevent Coursework** -  AP Calc BC, AP PRE Calc, AP CSA, AP CSP
+- 📚 **Relevent Coursework** -  AP Calc BC, AP PRE Calc, AP CSA, AP CSP, AP Physics C, AP Physics E & M
 
 ### 🎓 **College Involvement (University of Louisville)**  
 - 🌐 Member of the **Association for Computing Machinery (ACM)**, contributing to projects and peer collaboration  
