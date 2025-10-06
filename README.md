@@ -33,7 +33,10 @@
 ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white)  
 ![HTML/CSS](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)  
 ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)   
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)  
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=white)
+
 
 ---
 
