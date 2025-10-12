@@ -55,7 +55,6 @@
 
 ---
 
-### ⚡ **Fun Fact**  
-> *"I can recite the Sicilian Defense opening moves blindfolded!"* ♟️  
+### ⚡ **Fun Fact**  ♟️  
 > *Always willing to help, just ask!*  
 > *Consistently learning and growing*  
