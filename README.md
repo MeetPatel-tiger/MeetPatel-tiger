@@ -4,6 +4,7 @@
 💡 Currently:  
 - 📚 Learning **Data Structures & Algorithms on my own** to prepare for internships  
 - 💻 Building independent projects like **Syllabus-Explainer** (**Coming Soon**)
+- 🌐 Hackathon Preparation  
  
 
 ### 🏆 **High School Achievements**  
