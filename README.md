@@ -3,7 +3,7 @@
 
 💡 Currently:  
 - 📚 Learning **Data Structures & Algorithms on my own** to prepare for internships  
-- 💻 Building independent projects like **Syllabus-Explainer** (**Coming Soon**)
+- 💻 Building independent projects like **[Syllabus-Explainer](https://github.com/MeetPatel-tiger/syllabus_explainer)** 
 - 🌐 Hackathon Preparation  
  
 
