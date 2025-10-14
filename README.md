@@ -1,4 +1,4 @@
-# 👋 Hi, Im Meet Patel!  
+# 👋 Hi, I'm Meet Patel!  
 ### **First-Gen CS Freshman @ University of Louisville | Aspiring Software Engineer**
 
 💡 Currently:  
