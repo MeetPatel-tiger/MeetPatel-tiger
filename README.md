@@ -2,8 +2,8 @@
 ### **First-Gen CS Freshman @ University of Louisville | Aspiring Software Engineer**
 
 💡 Currently:  
-- 📚 Learning **Data Structures & Algorithms on my own** to prepare for internships  
-- 💻 Building independent projects like **[Syllabus-Explainer](https://github.com/MeetPatel-tiger/syllabus_explainer)** 
+- 📚 Learning **Data Structures & Algorithms and Operating Systems topics on my own** to prepare for internships  
+- 💻 Building independent projects
 - 🌐 Hackathon Preparation  
  
 
@@ -14,7 +14,8 @@
 
 ### 🎓 **College Involvement (University of Louisville)**  
 - 🌐 Member of the **Association for Computing Machinery (ACM)**, contributing to projects and peer collaboration  
-- 🏆 Preparing for **International Collegiate Programming Contest** with teammates  
+- 🏆 Preparing for **International Collegiate Programming Contest** with teammates
+- 📚 Recently finished **[Syllabus-Explainer](https://github.com/MeetPatel-tiger/syllabus_explainer)** 
 
 ---
 
