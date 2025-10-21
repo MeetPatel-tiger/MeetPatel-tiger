@@ -4,7 +4,7 @@
 💡 Currently:  
 - 📚 Learning **Data Structures & Algorithms and Operating Systems topics on my own** to prepare for internships  
 - 💻 Building independent projects
-- 🌐 Hackathon Preparation  
+- 🌐 HackKentucky Preparation(I am going to compete in November!)  
  
 
 ### 🏆 **High School Achievements**  
