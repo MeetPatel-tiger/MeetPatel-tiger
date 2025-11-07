@@ -2,7 +2,7 @@
 ### **First-Gen CS Freshman @ University of Louisville | Aspiring Software Engineer**
 
 💡 Currently:  
-- 📚 Learning **Data Structures & Algorithms and Operating Systems topics on my own** to prepare for internships  
+- 📚 Learning **Data Structures & Algorithms on my own** to prepare for internships  
 - 💻 Building independent projects
 - 🌐 HackKentucky Preparation(I am going to compete in November!)  
  
