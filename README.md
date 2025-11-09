@@ -4,7 +4,7 @@
 💡 Currently:  
 - 📚 Learning **Data Structures & Algorithms on my own** to prepare for internships  
 - 💻 Building independent projects
-- 🌐 HackKentucky Preparation(I am going to compete in November!)  
+- 🌐 ACM Club
  
 
 ### 🏆 **High School Achievements**  
